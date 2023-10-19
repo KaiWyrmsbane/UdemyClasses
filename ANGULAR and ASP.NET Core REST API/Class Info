@@ -1,0 +1,48 @@
+#ANGULAR and ASP.NET Core REST API - Real World Application
+
+###In this course, you will learn and implement:
+- Learn And Create Your First Angular single page application (SPA)
+- Learn and Create your first ASP.NET Core Web API using RESTful principles in C#
+- Create a fully functional, highly scalable blog application
+
+###In Angular you will learn and develop:
+- Angular CLI
+- Angular Components
+- Angular Routing
+- Angular Services
+- HTTP calls
+- CORS
+- Use Bootstrap CSS in Angular applications
+- Create reusable components
+- CRUD operations (Create Read Update Delete)
+- Angular Forms
+- Live Markdown Preview
+- Markdown to HTML
+- Angular Form Elements
+- Authentication and Authorization
+- JWT Tokens and Storage
+- Cookie Services
+- Local Storage
+- Interceptors
+- Auth/Route Guards
+- Image Upload in Angular applications
+- Models and Interfaces
+
+###In our ASP.NET Core Web API, you will learn and develop:
+- Create ASPNET Core APIs from scratch using C#
+- Create endpoints and action methods
+- CRUD operations in ASP.NET Core (Create Read Update Delete)
+- Install and Use Entity Framework Core to connect to SQL Server database
+- Understand and implement Entity framework core relationships
+- Domain-Driven Design Patterns (DDD)
+- Repository Pattern in ASP.NET Core
+- Domain Modelling
+- Entity Framework Code First Approach
+- SQL Server
+- Seeding the Database
+- HTTP Web Methods
+- Authentication and Authorization
+- JWT Tokens
+- Role Based Authorization
+- Image Upload in ASP.NET Core Web API
+- Write Clean, Re-Usable Code
