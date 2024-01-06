@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1LZXX7wxs6ZjeOTps3Vts+X5xPdQf36VLNPWssJ+Bm+ghuA9swaicaFsnEGsWwo9nzNetnxQzVAn8zx7PzXhJg==",
+  "success": true,
+  "projectFilePath": "/Users/jamesvanmeter/Documents/Learning_Journey/Udemy/UdemyClasses/CSharpMasterClass/UserInputChallenge/UserInputChallenge/UserInputChallenge.csproj",
+  "expectedPackageFiles": [
+    "/Users/jamesvanmeter/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/jamesvanmeter/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/jamesvanmeter/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.14/microsoft.netcore.app.host.osx-arm64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
