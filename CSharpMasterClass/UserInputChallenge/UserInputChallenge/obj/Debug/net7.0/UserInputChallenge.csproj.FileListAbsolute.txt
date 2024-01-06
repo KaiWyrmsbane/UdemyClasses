@@ -1,0 +1,15 @@
+/Users/jamesvanmeter/Documents/Learning_Journey/Udemy/UdemyClasses/CSharpMasterClass/UserInputChallenge/UserInputChallenge/bin/Debug/net7.0/UserInputChallenge
+/Users/jamesvanmeter/Documents/Learning_Journey/Udemy/UdemyClasses/CSharpMasterClass/UserInputChallenge/UserInputChallenge/bin/Debug/net7.0/UserInputChallenge.deps.json
+/Users/jamesvanmeter/Documents/Learning_Journey/Udemy/UdemyClasses/CSharpMasterClass/UserInputChallenge/UserInputChallenge/bin/Debug/net7.0/UserInputChallenge.runtimeconfig.json
+/Users/jamesvanmeter/Documents/Learning_Journey/Udemy/UdemyClasses/CSharpMasterClass/UserInputChallenge/UserInputChallenge/bin/Debug/net7.0/UserInputChallenge.dll
+/Users/jamesvanmeter/Documents/Learning_Journey/Udemy/UdemyClasses/CSharpMasterClass/UserInputChallenge/UserInputChallenge/bin/Debug/net7.0/UserInputChallenge.pdb
+/Users/jamesvanmeter/Documents/Learning_Journey/Udemy/UdemyClasses/CSharpMasterClass/UserInputChallenge/UserInputChallenge/obj/Debug/net7.0/UserInputChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamesvanmeter/Documents/Learning_Journey/Udemy/UdemyClasses/CSharpMasterClass/UserInputChallenge/UserInputChallenge/obj/Debug/net7.0/UserInputChallenge.AssemblyInfoInputs.cache
+/Users/jamesvanmeter/Documents/Learning_Journey/Udemy/UdemyClasses/CSharpMasterClass/UserInputChallenge/UserInputChallenge/obj/Debug/net7.0/UserInputChallenge.AssemblyInfo.cs
+/Users/jamesvanmeter/Documents/Learning_Journey/Udemy/UdemyClasses/CSharpMasterClass/UserInputChallenge/UserInputChallenge/obj/Debug/net7.0/UserInputChallenge.csproj.CoreCompileInputs.cache
+/Users/jamesvanmeter/Documents/Learning_Journey/Udemy/UdemyClasses/CSharpMasterClass/UserInputChallenge/UserInputChallenge/obj/Debug/net7.0/UserInputChallenge.sourcelink.json
+/Users/jamesvanmeter/Documents/Learning_Journey/Udemy/UdemyClasses/CSharpMasterClass/UserInputChallenge/UserInputChallenge/obj/Debug/net7.0/UserInputChallenge.dll
+/Users/jamesvanmeter/Documents/Learning_Journey/Udemy/UdemyClasses/CSharpMasterClass/UserInputChallenge/UserInputChallenge/obj/Debug/net7.0/refint/UserInputChallenge.dll
+/Users/jamesvanmeter/Documents/Learning_Journey/Udemy/UdemyClasses/CSharpMasterClass/UserInputChallenge/UserInputChallenge/obj/Debug/net7.0/UserInputChallenge.pdb
+/Users/jamesvanmeter/Documents/Learning_Journey/Udemy/UdemyClasses/CSharpMasterClass/UserInputChallenge/UserInputChallenge/obj/Debug/net7.0/UserInputChallenge.genruntimeconfig.cache
+/Users/jamesvanmeter/Documents/Learning_Journey/Udemy/UdemyClasses/CSharpMasterClass/UserInputChallenge/UserInputChallenge/obj/Debug/net7.0/ref/UserInputChallenge.dll

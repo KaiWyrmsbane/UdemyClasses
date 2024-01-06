@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UserInputChallenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f865a689a5748b3aaa6591b6530aaa1f9337f8ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("UserInputChallenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UserInputChallenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
