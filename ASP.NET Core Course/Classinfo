@@ -1,1 +1,51 @@
+So, in this course, you will learn the development of ASP.NET 6.0 core with all of its aspects. You will learn to develop applications using the MVC Pattern and how to develop entire RESTful web APIs.
 
+In addition to the standard development topics, we have added important additional topics about security, deployment and brand new features like Minimal API.
+
+We created this complete ASP.NET core course in which you will build 2 real-world applications.
+
+In this ASP.NET core course you will learn these topics:
+
+MVC Pattern (Model View Controller)
+
+Basic HTML, CSS and Bootstrap
+
+Razor Pages
+
+Blazor Pages
+
+Different Hosting Models
+
+RESTful Web API Development
+
+Uploading Data/Files
+
+Globalization and Localization
+
+Authorization and Authentication (Roles and Accounts)
+
+Entity Framework Core, SQL Development
+
+Designing Web-Applications
+
+Deployment
+
+
+
+Beside of other applications, we are going to build two real-world applications:
+
+A pizza delivery application in which you will to built a User Interface using Razor pages as well as store the data using Entity Framework Core.
+
+Then we will dive deep into Blazer pages, where you will learn things like:
+
+Data binding
+
+Uploading Files and images
+
+Dependency injection
+
+and Form validation
+
+Then you will learn how to create your own restful web APIs and Develop HTTP Services using ASP.NET Course.
+
+And finally, you will build an entire Invoice Management System, including user accounts, and roles, authentication, and deployment to the Microsoft Azure cloud platform.
