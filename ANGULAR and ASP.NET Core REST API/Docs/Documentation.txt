@@ -1,0 +1,39 @@
+Habits to build:
+create unit test as you create functions/classes!
+
+SQL stuff:
+localhost
+
+Routing
+Ex: 1 - [Route("api/[controller]")] , 2 - [HttpDelete("{id}")]
+It would be read like this = [baseUrl]/api/[controller]/{id} so something like this
+https://localhost:1234/api/products/2
+
+Http verbs: Get, Post, Put, Delete
+
+Controller endpoint examples: 
+[HttpGet]
+public IActionResult Get()
+{
+	//get all of something
+}
+[HttpGet("{id}")]
+public IActionResult GetById(int id)
+{
+	//get something by this id
+}
+[HttpPost]
+public IActionResult Create(Class/Object class/object)
+{
+	//Create a new object of this class
+}
+[HttpPut("{id}")]
+public IActionResult Update(int id, Class class)
+{
+	//update an existing object
+}
+[HttpDelete("{id}")]
+public IActionResult Delete(int id)
+{
+	//Delete a object by ID
+}

@@ -1,0 +1,45 @@
+﻿@model HotelBooking
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Create Bookings";
+}
+<h1>@ViewData["Title"]</h1>
+
+<hr />
+
+<div class="row">
+    <div class="col-6">
+        <div class="card">
+            <div class="card-header">
+                <h5>Create a new Hotel Booking</h5>
+            </div>
+            <div class="card-body">
+                <form asp-controller="Home" asp-action="CreateBooking" method="post">
+                    <div class="mb-3">
+                        <label class="form-label">Guest Name</label>
+                        <input asp-for=guestName type="text" class="form-control" />
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">ID Number</label>
+                        <input asp-for=id type="number" class="form-control" />
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Start Date</label>
+                        <input asp-for=dateStart type="date" class="form-control" />
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">End Date</label>
+                        <input asp-for=dateEnd type="date" class="form-control" />
+                    </div>
+                    <div class="mb-3">
+                        <button type="submit" class="btn btn-primary">Save</button>
+                    </div>
+                </form>
+            </div>
+            <div class="card-footer">
+            </div>
+        </div>
+    </div>
+</div>

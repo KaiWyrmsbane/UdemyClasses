@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpMasterClassInClassCodingPractice", "CSharpMasterClassInClassCodingPractice\CSharpMasterClassInClassCodingPractice.csproj", "{B084C48C-097B-4DD3-8D32-C99CC904061D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B084C48C-097B-4DD3-8D32-C99CC904061D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B084C48C-097B-4DD3-8D32-C99CC904061D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B084C48C-097B-4DD3-8D32-C99CC904061D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B084C48C-097B-4DD3-8D32-C99CC904061D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B1EBD86-6889-4572-8744-815E4895C7B7}
+	EndGlobalSection
+EndGlobal

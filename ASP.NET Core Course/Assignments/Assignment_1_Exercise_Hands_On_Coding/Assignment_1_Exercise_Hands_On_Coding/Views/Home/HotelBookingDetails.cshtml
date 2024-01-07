@@ -1,0 +1,16 @@
+﻿@model List<Assignment_1_Exercise_Hands_On_Coding.Models.HotelBooking>
+@{
+    ViewData["Title"] = "Bookings";
+}
+
+<h1>@ViewData["Title"]</h1>
+<hr />
+<table>
+        @foreach (var booking in Model) {
+            <tr><td>ID: @booking.id</td></tr>
+            <tr><td>Guest Name: @booking.guestName</td></tr>
+            <tr><td>Start Date: @booking.dateStart</td></tr>
+            <tr><td>End Date: @booking.dateEnd</td></tr>
+        }
+</table>
+<hr />
