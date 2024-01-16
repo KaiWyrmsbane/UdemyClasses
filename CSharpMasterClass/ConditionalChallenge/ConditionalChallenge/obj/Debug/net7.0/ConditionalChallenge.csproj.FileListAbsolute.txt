@@ -1,0 +1,14 @@
+C:\Users\james\Documents\Programming\UdemyClasses\CSharpMasterClass\ConditionalChallenge\ConditionalChallenge\bin\Debug\net7.0\ConditionalChallenge.exe
+C:\Users\james\Documents\Programming\UdemyClasses\CSharpMasterClass\ConditionalChallenge\ConditionalChallenge\bin\Debug\net7.0\ConditionalChallenge.deps.json
+C:\Users\james\Documents\Programming\UdemyClasses\CSharpMasterClass\ConditionalChallenge\ConditionalChallenge\bin\Debug\net7.0\ConditionalChallenge.runtimeconfig.json
+C:\Users\james\Documents\Programming\UdemyClasses\CSharpMasterClass\ConditionalChallenge\ConditionalChallenge\bin\Debug\net7.0\ConditionalChallenge.dll
+C:\Users\james\Documents\Programming\UdemyClasses\CSharpMasterClass\ConditionalChallenge\ConditionalChallenge\bin\Debug\net7.0\ConditionalChallenge.pdb
+C:\Users\james\Documents\Programming\UdemyClasses\CSharpMasterClass\ConditionalChallenge\ConditionalChallenge\obj\Debug\net7.0\ConditionalChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Documents\Programming\UdemyClasses\CSharpMasterClass\ConditionalChallenge\ConditionalChallenge\obj\Debug\net7.0\ConditionalChallenge.AssemblyInfoInputs.cache
+C:\Users\james\Documents\Programming\UdemyClasses\CSharpMasterClass\ConditionalChallenge\ConditionalChallenge\obj\Debug\net7.0\ConditionalChallenge.AssemblyInfo.cs
+C:\Users\james\Documents\Programming\UdemyClasses\CSharpMasterClass\ConditionalChallenge\ConditionalChallenge\obj\Debug\net7.0\ConditionalChallenge.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\Programming\UdemyClasses\CSharpMasterClass\ConditionalChallenge\ConditionalChallenge\obj\Debug\net7.0\ConditionalChallenge.dll
+C:\Users\james\Documents\Programming\UdemyClasses\CSharpMasterClass\ConditionalChallenge\ConditionalChallenge\obj\Debug\net7.0\refint\ConditionalChallenge.dll
+C:\Users\james\Documents\Programming\UdemyClasses\CSharpMasterClass\ConditionalChallenge\ConditionalChallenge\obj\Debug\net7.0\ConditionalChallenge.pdb
+C:\Users\james\Documents\Programming\UdemyClasses\CSharpMasterClass\ConditionalChallenge\ConditionalChallenge\obj\Debug\net7.0\ConditionalChallenge.genruntimeconfig.cache
+C:\Users\james\Documents\Programming\UdemyClasses\CSharpMasterClass\ConditionalChallenge\ConditionalChallenge\obj\Debug\net7.0\ref\ConditionalChallenge.dll
