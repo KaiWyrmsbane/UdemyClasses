@@ -1,4 +1,4 @@
-﻿////Implicit and Explicit Conversion challenge ClassTime: 5:54
+////Implicit and Explicit Conversion challenge ClassTime: 5:54
 ////convert a float into a string
 //float myFloat = 13.37f;
 //string myString = myFloat.ToString();
@@ -123,6 +123,27 @@ namespace CSharpMasterClassInClassCodingPractice
         static void Modulo(double number)
         {
             Console.WriteLine("Coming soon");
+        }
+
+        //try catch finally
+        public void TrtCatchFinallyLesson()
+        {
+            Console.WriteLine("Enter your name: ");
+            string Name = Console.ReadLine();
+
+            try{
+                int userInput = int.Parse(Name);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("A string can't be parsed into a number!");
+            }
+        }
+
+        //operators 
+        public void OperatorLesson()
+        {
+
         }
 
     }
