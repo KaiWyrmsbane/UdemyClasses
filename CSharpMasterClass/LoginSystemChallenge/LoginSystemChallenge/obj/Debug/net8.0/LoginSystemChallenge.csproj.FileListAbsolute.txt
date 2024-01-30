@@ -1,0 +1,15 @@
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\LoginSystemChallenge\LoginSystemChallenge\bin\Debug\net8.0\LoginSystemChallenge.exe
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\LoginSystemChallenge\LoginSystemChallenge\bin\Debug\net8.0\LoginSystemChallenge.deps.json
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\LoginSystemChallenge\LoginSystemChallenge\bin\Debug\net8.0\LoginSystemChallenge.runtimeconfig.json
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\LoginSystemChallenge\LoginSystemChallenge\bin\Debug\net8.0\LoginSystemChallenge.dll
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\LoginSystemChallenge\LoginSystemChallenge\bin\Debug\net8.0\LoginSystemChallenge.pdb
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\LoginSystemChallenge\LoginSystemChallenge\obj\Debug\net8.0\LoginSystemChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\LoginSystemChallenge\LoginSystemChallenge\obj\Debug\net8.0\LoginSystemChallenge.AssemblyInfoInputs.cache
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\LoginSystemChallenge\LoginSystemChallenge\obj\Debug\net8.0\LoginSystemChallenge.AssemblyInfo.cs
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\LoginSystemChallenge\LoginSystemChallenge\obj\Debug\net8.0\LoginSystemChallenge.csproj.CoreCompileInputs.cache
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\LoginSystemChallenge\LoginSystemChallenge\obj\Debug\net8.0\LoginSystemChallenge.sourcelink.json
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\LoginSystemChallenge\LoginSystemChallenge\obj\Debug\net8.0\LoginSystemChallenge.dll
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\LoginSystemChallenge\LoginSystemChallenge\obj\Debug\net8.0\refint\LoginSystemChallenge.dll
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\LoginSystemChallenge\LoginSystemChallenge\obj\Debug\net8.0\LoginSystemChallenge.pdb
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\LoginSystemChallenge\LoginSystemChallenge\obj\Debug\net8.0\LoginSystemChallenge.genruntimeconfig.cache
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\LoginSystemChallenge\LoginSystemChallenge\obj\Debug\net8.0\ref\LoginSystemChallenge.dll

@@ -1,0 +1,15 @@
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\NestedIfChallenge\NestedIfChallenge\bin\Debug\net8.0\NestedIfChallenge.exe
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\NestedIfChallenge\NestedIfChallenge\bin\Debug\net8.0\NestedIfChallenge.deps.json
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\NestedIfChallenge\NestedIfChallenge\bin\Debug\net8.0\NestedIfChallenge.runtimeconfig.json
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\NestedIfChallenge\NestedIfChallenge\bin\Debug\net8.0\NestedIfChallenge.dll
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\NestedIfChallenge\NestedIfChallenge\bin\Debug\net8.0\NestedIfChallenge.pdb
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\NestedIfChallenge\NestedIfChallenge\obj\Debug\net8.0\NestedIfChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\NestedIfChallenge\NestedIfChallenge\obj\Debug\net8.0\NestedIfChallenge.AssemblyInfoInputs.cache
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\NestedIfChallenge\NestedIfChallenge\obj\Debug\net8.0\NestedIfChallenge.AssemblyInfo.cs
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\NestedIfChallenge\NestedIfChallenge\obj\Debug\net8.0\NestedIfChallenge.csproj.CoreCompileInputs.cache
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\NestedIfChallenge\NestedIfChallenge\obj\Debug\net8.0\NestedIfChallenge.sourcelink.json
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\NestedIfChallenge\NestedIfChallenge\obj\Debug\net8.0\NestedIfChallenge.dll
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\NestedIfChallenge\NestedIfChallenge\obj\Debug\net8.0\refint\NestedIfChallenge.dll
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\NestedIfChallenge\NestedIfChallenge\obj\Debug\net8.0\NestedIfChallenge.pdb
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\NestedIfChallenge\NestedIfChallenge\obj\Debug\net8.0\NestedIfChallenge.genruntimeconfig.cache
+C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\NestedIfChallenge\NestedIfChallenge\obj\Debug\net8.0\ref\NestedIfChallenge.dll
