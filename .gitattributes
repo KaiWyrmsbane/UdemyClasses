@@ -1,8 +1,4 @@
-# want to set these back once we get repo up to date
-# * text=auto
-# *.sh text eol=lf
-# *.bat text eol=crlf
-
-* text eol=lf
+* text=auto
 *.sh text eol=lf
-*.sln text eol=crlf
+*.bat text eol=crlf
+
