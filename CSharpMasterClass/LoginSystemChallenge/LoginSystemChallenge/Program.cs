@@ -93,15 +93,16 @@ namespace LoginSystemChallenge
             }
         }
 
-        public static string register()
+        public static bool register()
         {
             Console.Write("Please enter name: ");
             name = Console.ReadLine();
             Console.Write("Please enter email: ");
             email = Console.ReadLine();
             string account = $"You've created an account under the name of {name}, and under this email {email}";
+            Console.WriteLine(account);
             hasAccount = true;
-            return account;
+            return hasAccount;
         }
 
         public static void Login(string name, string email)

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoginSystemChallenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e66c35cc34cd1a15bc76f475882848584ec3c016")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoginSystemChallenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoginSystemChallenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

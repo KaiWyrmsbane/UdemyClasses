@@ -8,6 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LoginSystemChallenge
-build_property.ProjectDir = C:\Users\JT\Documents\Development\UdemyClasses\CSharpMasterClass\IfStatementChallenge\LoginSystemChallenge\LoginSystemChallenge\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = C:\Users\james\Documents\Programming\UdemyClasses\CSharpMasterClass\LoginSystemChallenge\LoginSystemChallenge\
