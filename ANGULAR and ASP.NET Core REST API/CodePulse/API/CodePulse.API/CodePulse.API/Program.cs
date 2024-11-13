@@ -11,7 +11,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 //we want to inject the DbContext before it builds
-//here we're ingecting the DbContext which is of type ApplicationDbContext
+//here we're injecting the DbContext which is of type ApplicationDbContext
 builder.Services.AddDbContext <ApplicationDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("CodePulseConnectionString"));
